@@ -68,3 +68,6 @@ Note: the external inputs are the same for each neuron: ei = ej = ext).
 For each simulation run, randomly initialize the activations
 ai(0) = random values between m and M.
 Note: Each neuron gets its own random value. If you set all the initial activations to the same value the network will "hang" -- try it and see what happens.
+##References:
+[1]W.J. Wolfe, D. Mathis, C. Anderson, J. Rothman, M. Gottler, G.Brad, "K-Winner Networks", IEEE Transactions on neural networks, vol. 2, no. 2, march 1991
+[2]Mark Ottenberg's work, http://www.riverrock.org/~mark/edu/csc5542/proj1/, K-winner network, 2005
