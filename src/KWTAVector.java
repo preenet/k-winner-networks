@@ -1,8 +1,7 @@
 /********************************************************************
- * CSC5542: Neural Networks       									
- * Project: K-Winner Take All   
- * Pree Thiengburanathum    									
- * Due date: June 11, 2008        																	*
+ Neural Networks       									
+ K-Winner Take All   
+ Pree Thiengburanathum    									      																	*
  ********************************************************************/
 import java.util.*;
 import java.io.*;
