@@ -92,7 +92,8 @@ Running step 0.1 ext 1.5
 Running step 0.1 ext 2.5
 
 ## Data 
-[a link](http://preet.sesolution.com/CSC5542/p1/rawdata.html)
+[Download an executable file here](http://preet.sesolution.com/CSC5542/p1/kwta.jar) (compiled the jar file with jdk1.6.0_06)
+[Download raw data here](http://preet.sesolution.com/CSC5542/p1/rawdata.html)
 
 ##References:
 [1]W.J. Wolfe, D. Mathis, C. Anderson, J. Rothman, M. Gottler, G.Brad, "K-Winner Networks", IEEE Transactions on neural networks, vol. 2, no. 2, march 1991
