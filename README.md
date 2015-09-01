@@ -101,7 +101,7 @@ Running step 0.1 ext 2.5
 ![alt tag](http://preet.sesolution.com/CSC5542/p1/p1_1.png)
 
 ## Project site:
-![alt tag](http://preet.sesolution.com/CSC5542/p1/)
+http://preet.sesolution.com/CSC5542/p1/
 
 ##References:
 W.J. Wolfe, D. Mathis, C. Anderson, J. Rothman, M. Gottler, G.Brad, "K-Winner Networks", IEEE Transactions on neural networks, vol. 2, no. 2, march 1991
