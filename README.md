@@ -96,6 +96,10 @@ Running step 0.1 ext 2.5
 
 [Download raw data here](http://preet.sesolution.com/CSC5542/p1/rawdata.html)
 
+##Performance:
+
+![alt tag](http://preet.sesolution.com/CSC5542/p1/img/energy_ext0.5)
+
 ##References:
 W.J. Wolfe, D. Mathis, C. Anderson, J. Rothman, M. Gottler, G.Brad, "K-Winner Networks", IEEE Transactions on neural networks, vol. 2, no. 2, march 1991
 
